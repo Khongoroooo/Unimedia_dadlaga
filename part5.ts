@@ -13,7 +13,7 @@ console.log(add(2, 5));
 
 //sumtai function ashiglah bogino bicheglel
 const num = (num1: number): number => num1 * 2;
-console.log(num(2));
+console.log(num(1));
 
 //urt ni
 const numm = (num1: number): number => {

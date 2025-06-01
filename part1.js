@@ -1,6 +1,6 @@
-var name = "Khongorzul";
+var username = "Khongorzul";
 var age = 25;
 var isStudent = true;
-console.log(name);
+console.log(username);
 console.log(age);
 console.log(isStudent);

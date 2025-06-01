@@ -19,11 +19,11 @@ console.log(value,typeof value)
 
 
 //3
-function throwError(message: string): never {
-    throw new Error(message);
+// function throwError(message: string): never {
+//     throw new Error(message);
     
-}
-throwError("Энэ бол туршилтын алдаа");
+// }
+// throwError("Энэ бол туршилтын алдаа");
 
 
 //4
